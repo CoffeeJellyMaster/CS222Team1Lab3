@@ -1,0 +1,14 @@
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\bin\Debug\net9.0\Digital-Diary.exe
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\bin\Debug\net9.0\Digital-Diary.deps.json
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\bin\Debug\net9.0\Digital-Diary.runtimeconfig.json
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\bin\Debug\net9.0\Digital-Diary.dll
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\bin\Debug\net9.0\Digital-Diary.pdb
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\Digital-Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\Digital-Diary.AssemblyInfoInputs.cache
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\Digital-Diary.AssemblyInfo.cs
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\Digital-Diary.csproj.CoreCompileInputs.cache
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\Digital-Diary.dll
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\refint\Digital-Diary.dll
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\Digital-Diary.pdb
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\Digital-Diary.genruntimeconfig.cache
+C:\Users\Albert Soriano Jr\main\Student\subjects\AOOP\Laboratory_Activity-3\Digital-Diary\Digital-Diary\obj\Debug\net9.0\ref\Digital-Diary.dll
