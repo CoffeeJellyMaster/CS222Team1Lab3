@@ -34,7 +34,7 @@ After running the app, it is a very Straight Forward Interaction, menu will pop 
 <br>
 Go to this link to access DiaryMalupet if you don't have safari or chrome installed.
         <br>Link :
-        <br> https://diary-malupet.web.app/
+        <br> https://diary-malupet-v2.web.app/
 <url>
 
 Or use the C# Program and input necessary menu
