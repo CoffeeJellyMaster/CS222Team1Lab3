@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diary-malupet",
+  "private_key_id": "6d67768731d95bca9261d60f519098cc6a1af96e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCX9662XTflvKuL\nsJfEHe23QD8Q6OhQszXlJYIoog25H8HiAG1cDwFIYh0ZC17eLBGYGh6Brwu+kPxT\n7Ai5tjKGjNGc6UgJ55oPNImFH+fztbPcs9bUFuBhh6oPrj7udF7F00RU18Zk8tDl\nqI6FIjT+5xkOK4jc+/C4Bez/4+yltrEMbS1eYdcLLXddKTTU7hEwxdiJkzBkugSS\na0zZ+58pkBV6GGLc5GZSb4+LhI6cY2H87B7kwMnoNq23gAoFeM2EgjUx89PuD33F\nbRSpXvMCQ3eG1LJeTpKktOIViHO0JzXxSobQxvQOOBcnyt1Qyi0Mq16hR0xYgp8Y\nlu480Q67AgMBAAECggEAD5PmJu97UWN7ukAJ7qKawZQmYtddKRiVx72GkB+8hGOK\n/l3I2Az5tq/IB88wlFm0HAFhay3EaG54Tyn84vyYRU6eFhWbutgw5KogBrN0lXjk\nzRTqSqdlrNm5Rw43iT4IkQLNGF1eCu8RFtmmcmNFR3PtD5TK3Mw+qr6AwuJcWcgt\n9DXzl+lLxuHMunZLcurpE2u6p/s1mTLdgLUFQEBuNbiNrQVU69Ot4aWl2Erea+us\n9fj7IhZfGF2JQP5902xVAEvWfDXe2ea+9kbsfnJv22B7FN3cekQNlPvwSOFm2Mxm\nYWYg5ah+/iSZbkrbxNJVLoy5YjAW/vrB08mnWTcegQKBgQDPqU/O+T6JfB2ZMA0S\nvhcll5Yn/mA9LeEernOuS9XpVVaLb9MQ+42C5tQ3hRgnPKoDtChf62fhm54PpDSO\nOr39m5JVuCw3ETIPMZb22Hbf2QD+fgwJAoq2zO7sj6qgCSoBtbTNIQVGGk+5Xqxr\nI81MeDMbGuqHdGKBGlij7k5IGwKBgQC7V4ivL623yw7Q1DTUYb5Nv5Epz1a1xVkj\nVahIdk4Cat58y5XNmzNO1JH9Lmh9XpPC+ahX5KLdhmr69YFVw8nPWjvnZmh1URr6\nscriPceYsZeV3iUOkI+BkSRWvVyUZ0OoAhnKnS8FRMkPGYNGD31L2r3s1fLwrEVH\nR6gH5FP94QKBgGzjrjqsjXNQRsD15lUGomKO6yjLhTFvZlVNStGBaIiyu+/f0kBc\nd6bFXVBDlRe2Arxwcp9hdBZkIGy5QOm3ubpLIl+adGznsmUvLqb/eM4GHzRTagIr\neAtEyJ/48ZJ7W7CL1GOfxgEteNKN50FDA7ruaHX1Fjey+pgR9Zr4McozAoGAXGXA\nyT6HvGVPCloPMEyA8pGwA+H6Dy6lVxMRK6QFt5WD5CL44G5ScOfQlQGFkYfK8tf1\nWlwuo3l/XAUn4+frqfQEJY3RqUL2Pnzf5pO31KyKaeUle7h6vtmaBZnhhmQj70IR\n/Gdn4H5bd7IKl8xd7MKW969R4bfld1F1I2dOsaECgYA93qMlcbYBuPolD/s008ES\nQlQ4l8JIXSXfdy6vURKhOTyJSLnum1QkqAkTbIVlMPo3OSUoV9onWq9PmNkBbr4A\nAAChYZo1O6qoEn0FjLnATXD2Y/Dap+qLV/5YzjWBKozhDEcb4Cx06e4h2f2goozn\n0buR/TikLXdpRCCmyFXEkQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@diary-malupet.iam.gserviceaccount.com",
+  "client_id": "102810641395605058096",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40diary-malupet.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
